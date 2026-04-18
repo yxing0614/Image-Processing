@@ -1,4 +1,7 @@
 streamlit
 opencv-python-headless
 numpy
-Pillow
+pandas
+seaborn
+matplotlib
+scikit-image
