@@ -5,5 +5,3 @@ pandas
 seaborn
 matplotlib
 scikit-image
-
-demo website: https://image-processing-ncrbiepckd72i7jvqqbcnp.streamlit.app/
