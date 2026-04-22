@@ -41,8 +41,8 @@ def edge_strength(img, mask):
 # 2. UI CONFIGURATION
 # =========================================================
 
-st.set_page_config(page_title="Tomato Scientific Suite", layout="wide")
-st.title("🔬 Tomato Leaf Diagnostic Suite: Advanced Analysis")
+st.set_page_config(page_title="Demo", layout="wide")
+st.title("🔬 Demo")
 
 # Sidebar Controls
 st.sidebar.header("🔬 Parameters")
